@@ -1,3 +1,3 @@
 # Weather application
 
-![Design](demo.png)
+![Design](demo.gif)
